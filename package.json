@@ -1,0 +1,16 @@
+{
+  "author": "xrkffgg",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/actions-cool/action-tutorial",
+    "branch": "main"
+  },
+  "scripts": {
+    "start": "dumi dev",
+    "build": "dumi build"
+  },
+  "devDependencies": {
+    "dumi": "^1.1.4"
+  }
+}
