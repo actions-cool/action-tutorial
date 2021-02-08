@@ -4,6 +4,10 @@
 
 目前处于起始编写阶段。自己也在学习中。
 
+## 预览
+
+https://actions-cool.github.io/action-tutorial/
+
 ## 目录
 
 - GitHub Action 介绍
