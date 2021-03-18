@@ -20,6 +20,10 @@ features:
 footer: Copyright © 2021-present<br />Powered by [xrkffgg](https://github.com/xrkffgg)
 ---
 
+欢迎加入 钉钉交流群
+
+![](https://github.com/actions-cool/resources/blob/main/dingding.jpeg?raw=true)
+
 ## 版权许可
 
 采用“保持署名—非商用”创意共享4.0许可证。
