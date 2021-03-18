@@ -9,7 +9,7 @@
     <link
       rel="shortcut icon"
       type="image/x-icon"
-      href="https://avatars1.githubusercontent.com/u/73879334?s=200&v=4"
+      href="https://avatars1.githubusercontent.com/u/73879334?s=200&amp;v=4"
     />
     <style>
       .__dumi-default-layout-hero {
@@ -40,18 +40,29 @@
         text-decoration: none;
       }
     </style>
-    <link rel="stylesheet" href="/action-tutorial/umi.45a8695a.css" />
+    <link rel="stylesheet" href="/action-tutorial/umi.84791e63.css" />
     <script>
       window.routerBase = "/action-tutorial/";
     </script>
     <script>
-      //! umi version: 3.3.7
+      //! umi version: 3.4.2
+    </script>
+    <script>
+      !(function () {
+        var e = localStorage.getItem("dumi:prefers-color"),
+          t = window.matchMedia("(prefers-color-scheme: dark)").matches,
+          r = ["light", "dark", "auto"];
+        document.documentElement.setAttribute(
+          "data-prefers-color",
+          e === r[2] ? (t ? r[1] : r[0]) : r.includes(e) ? e : r[0]
+        );
+      })();
     </script>
     <title>Action Tutorial</title>
   </head>
   <body>
     <div id="root"></div>
 
-    <script src="/action-tutorial/umi.010479a9.js"></script>
+    <script src="/action-tutorial/umi.cf338984.js"></script>
   </body>
 </html>
