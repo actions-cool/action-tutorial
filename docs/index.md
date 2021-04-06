@@ -4,6 +4,9 @@ order: 1
 hero:
   title: Action 教程
   image: https://avatars1.githubusercontent.com/u/73879334?s=200&v=4
+  actions:
+    - text: 快速入门
+      link: /intro/02
 features:
   - icon: https://github.com/actions-cool/resources/blob/main/image/intro.png?raw=true
     title: Action 介绍
